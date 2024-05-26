@@ -1,0 +1,10 @@
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarDriver\bin\Debug\AljabarDriver.exe.config
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarDriver\bin\Debug\AljabarDriver.exe
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarDriver\bin\Debug\AljabarDriver.pdb
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarDriver\bin\Debug\AljabarLibraries.dll
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarDriver\bin\Debug\AljabarLibraries.pdb
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarDriver\obj\Debug\AljabarDriver.csproj.AssemblyReference.cache
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarDriver\obj\Debug\AljabarDriver.csproj.CoreCompileInputs.cache
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarDriver\obj\Debug\AljabarD.EC9E1932.Up2Date
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarDriver\obj\Debug\AljabarDriver.exe
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarDriver\obj\Debug\AljabarDriver.pdb

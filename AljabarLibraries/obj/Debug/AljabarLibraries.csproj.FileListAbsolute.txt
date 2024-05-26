@@ -1,0 +1,6 @@
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarLibraries\bin\Debug\AljabarLibraries.dll
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarLibraries\bin\Debug\AljabarLibraries.pdb
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarLibraries\obj\Debug\AljabarLibraries.csproj.AssemblyReference.cache
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarLibraries\obj\Debug\AljabarLibraries.csproj.CoreCompileInputs.cache
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarLibraries\obj\Debug\AljabarLibraries.dll
+C:\Users\alienware\source\repos\TPMOD14_1302223146\AljabarLibraries\obj\Debug\AljabarLibraries.pdb
